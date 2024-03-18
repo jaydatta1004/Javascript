@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "All Javascript Concept Clear In Youtube",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node 01_basic/numbers_And_Math.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
