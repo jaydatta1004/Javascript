@@ -13,5 +13,15 @@
 ///////// Math ////////////////
 
 console.log(Math);
-console.log(Math.abs(-11)); // Convert - to + and + to + then O/P = 11
-console.log(Math.round(4.6));
+// console.log(Math.abs(-11)); // Convert - to + and + to + then O/P = 11
+// console.log(Math.round(4.3));
+// console.log(Math.ceil(5.5));
+// console.log(Math.floor(12.32));
+
+// console.log(Math.min(1,2,3,4,5,6));
+
+console.log((Math.floor(Math.random()*4))+1);
+
+let min = 10
+let max = 20
+console.log(Math.floor(Math.random() * (max - min + 1)) + min)
